@@ -1,5 +1,2 @@
-
-<!---
-replayan/replayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to Numerical Method Using C!
+Here you will find the C programming code for different method to solve the proble available in Numerical Method.
